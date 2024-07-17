@@ -4,4 +4,4 @@ import 'dayjs/locale/pt-br'
 dayjs.locale('pt-br')
 dayjs.extend(localizaedFormat);
 
-export { dayjs}
+export { dayjs }
